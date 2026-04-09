@@ -1,0 +1,6 @@
+#!/Users/priyankajammu/Desktop/real-time_stock_mds/dbt_env/bin/python
+import sys
+from dbt.cli.main import cli
+if __name__ == '__main__':
+    sys.argv[0] = sys.argv[0].removesuffix('.exe')
+    sys.exit(cli())
