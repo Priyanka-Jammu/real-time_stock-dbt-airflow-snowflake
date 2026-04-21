@@ -348,7 +348,6 @@ dbt run
 
 ## 🎯 Key Takeaways
 
-This project demonstrates my ability to not only build data pipelines, but also transform data into meaningful insights that support business decision-making — which is critical for analytics-driven roles.
 * Built end-to-end real-time data pipeline
 * Implemented modern architecture (Bronze → Silver → Gold)
 * Used Kafka for streaming and Snowflake for warehousing
