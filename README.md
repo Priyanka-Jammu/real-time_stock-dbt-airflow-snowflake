@@ -12,6 +12,14 @@ The pipeline collects live stock data from an API, streams it through Kafka, sto
 
 ---
 
+## 💼 Business Context
+
+In real-world scenarios, financial and operations teams rely on near real-time data to monitor performance, detect anomalies, and make timely decisions. However, raw streaming data is often unstructured and not directly usable for analytics.
+
+This pipeline simulates how organizations transform streaming data into structured, analytics-ready datasets to support KPI tracking, trend analysis, and decision-making.
+
+---
+
 ## 🏗️ Architecture
 
 ```
@@ -196,6 +204,19 @@ STDDEV / AVG
 
 ---
 
+## 📊 Analytical Insights
+
+This pipeline enables:
+
+- Tracking real-time stock performance using KPI metrics  
+- Identifying trends and price movements over time  
+- Comparing volatility across stocks to assess stability and risk  
+- Supporting data-driven decisions similar to financial analytics and operations monitoring  
+
+These insights demonstrate how raw data can be transformed into actionable intelligence for business use cases.
+
+---
+
 ## ⚙️ dbt Concepts
 
 ### 🔹 source()
@@ -327,6 +348,7 @@ dbt run
 
 ## 🎯 Key Takeaways
 
+This project demonstrates my ability to not only build data pipelines, but also transform data into meaningful insights that support business decision-making — which is critical for analytics-driven roles.
 * Built end-to-end real-time data pipeline
 * Implemented modern architecture (Bronze → Silver → Gold)
 * Used Kafka for streaming and Snowflake for warehousing
