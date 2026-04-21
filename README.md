@@ -38,6 +38,8 @@ dbt (Bronze → Silver → Gold)
 Power BI (Dashboard)
 ```
 
+<img width="468" height="278" alt="image" src="https://github.com/user-attachments/assets/9958cc76-ac6e-4d98-9fc8-bc5bfcd38163" />
+
 ---
 
 ## ⚙️ Tech Stack
